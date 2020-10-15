@@ -1,0 +1,4 @@
+transformers
+mc-transformers
+numpy==1.18.2
+ipython
